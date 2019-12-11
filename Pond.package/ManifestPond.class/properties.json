@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "VeitHeller 12/11/2019 17:29",
+	"super" : "PackageManifest",
+	"category" : "Pond-Manifest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ManifestPond",
+	"type" : "normal"
+}

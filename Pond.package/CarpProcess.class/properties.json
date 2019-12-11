@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "VeitHeller 12/11/2019 17:31",
+	"super" : "Object",
+	"category" : "Pond",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"proc"
+	],
+	"name" : "CarpProcess",
+	"type" : "normal"
+}
