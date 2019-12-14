@@ -1,3 +1,7 @@
 initialization
 initialize
-	proc := OSProcess command: 'carp'
+	proc := OSSUnixSubprocess new command: 'carp';
+				redirectStdin;
+				redirectStdout;
+				redirectStderr;
+				addAllEnvVariablesFromParentWithoutOverride

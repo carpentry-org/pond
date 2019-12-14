@@ -6,7 +6,10 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"proc"
+		"proc",
+		"out",
+		"in",
+		"excepted"
 	],
 	"name" : "CarpProcess",
 	"type" : "normal"

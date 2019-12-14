@@ -1,3 +1,3 @@
 accessing
 setCarp: aString
-	proc := OSProcess command: aString
+	proc command: aString

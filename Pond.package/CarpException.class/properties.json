@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "VeitHeller 12/14/2019 17:49",
+	"super" : "Exception",
+	"category" : "Pond",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parent",
+		"error"
+	],
+	"name" : "CarpException",
+	"type" : "normal"
+}

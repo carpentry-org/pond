@@ -1,0 +1,3 @@
+accessing
+died
+	^ excepted isNotNil

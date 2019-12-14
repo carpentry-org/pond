@@ -1,0 +1,1 @@
+I’m an exception that gets thrown when Carp does something funky.
