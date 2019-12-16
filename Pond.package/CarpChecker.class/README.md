@@ -1,0 +1,1 @@
+I’m a special case of a Carp process for checking errors.

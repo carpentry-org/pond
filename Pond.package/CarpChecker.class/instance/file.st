@@ -1,0 +1,3 @@
+checking
+file
+	^ file

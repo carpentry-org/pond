@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "VeitHeller 12/14/2019 17:49",
-	"super" : "Exception",
+	"super" : "Error",
 	"category" : "Pond",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -9,6 +9,6 @@
 		"parent",
 		"error"
 	],
-	"name" : "CarpException",
+	"name" : "CarpError",
 	"type" : "normal"
 }

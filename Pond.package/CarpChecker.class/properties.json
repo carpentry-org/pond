@@ -1,14 +1,13 @@
 {
-	"commentStamp" : "VeitHeller 12/11/2019 17:31",
-	"super" : "Object",
+	"commentStamp" : "VeitHeller 12/16/2019 10:34",
+	"super" : "CarpProcess",
 	"category" : "Pond",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"proc",
-		"excepted"
+		"file"
 	],
-	"name" : "CarpProcess",
+	"name" : "CarpChecker",
 	"type" : "normal"
 }

@@ -1,3 +1,3 @@
 accessing
-setCarp: aString
+carp: aString
 	proc command: aString
