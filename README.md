@@ -11,17 +11,21 @@ a dream within a dream of knowledge only it possesses.
 
 ## Usage
 
-This is extremely early stage, but you’ll need `OSProcess` support in Pharo. To
-get it, run:
+This is extremely early stage, but you’ll need `OSSubprocess` support in Pharo.
+To get it, run:
 
-```
-Gofer new
-	squeaksource: 'OSProcess';
-	package: 'OSProcess';
+```smalltalk
+Metacello new
+ 	baseline: 'OSSubprocess';
+ 	repository: 'github://pharo-contributions/OSSubprocess:master/repository';
 	load.
 ```
 
 in a playground.
+
+## More info
+
+You can read the [devlog](/devlog) where I document my progress daily.
 
 <hr/>
 
