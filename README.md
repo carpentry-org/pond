@@ -25,7 +25,8 @@ in a playground.
 
 ## More info
 
-You can read the [devlog](/devlog) where I document my progress daily.
+You can read the [devlog](/devlog) where I document my progress daily. Mostly
+you can see me fail, which is quite fun.
 
 <hr/>
 
