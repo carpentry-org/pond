@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "VeitHeller 12/18/2019 21:39",
+	"super" : "Object",
+	"category" : "Pond",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"editor"
+	],
+	"name" : "CarpEditor",
+	"type" : "normal"
+}
