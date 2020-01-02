@@ -25,8 +25,10 @@ in a playground.
 
 ## More info
 
-You can read the [devlog](/devlog) where I document my progress daily. Mostly
-you can see me fail, which is quite fun.
+You can read the [devlog](/devlog) where I document my progress. Mostly you can
+see me fail, which is quite fun. The log as of now is a story of me trying to
+get started in one of the last weeks of 2019, getting sick, and not getting very
+far at all. I intend to carve out some more time soon.
 
 <hr/>
 
